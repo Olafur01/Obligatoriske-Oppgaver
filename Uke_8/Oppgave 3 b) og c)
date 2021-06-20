@@ -1,0 +1,5 @@
+Oppgave 3 
+b)Grunnen til at det er mer naturlig [ velge en liste er fordi for ordbøker så er det nødvendig med unike nøkkelverdier. Dette betyr at man kan ikke ha flere sanger fra samme artist. 
+
+c) Fordelen ved å ikke gjøre dette i konstrutøren er at det å ha innlesing fra fil som en egen metode betyr at man har muligheten til å kalle denne metoden flere ganger for samme objekt. Dette betyr at man kan lese inn flere filer med sanger som kan da legges til i den samme spillelisten. 
+
